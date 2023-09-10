@@ -15,16 +15,107 @@
   },
   {
     "Title": "Doctor Strange",
-    "Year": "2016",
+    "Year": "2022",
     "Runtime": "115 min",
     "Released": "2022-12-25",
     "Poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SX300.jpg"
   },
   {
     "Title": "John Wick",
-    "Year": "2014",
+    "Year": "2020",
     "Runtime": "101 min",
     "Released": "2020-01-10",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg"
-  }
+  },
+  {
+    "Title": "Star Wars: Episode IV - A New Hope",
+    "Year": "1977",
+    "Runtime": "121 min",
+    "Released": "1977-05-25",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2ExLTljOTQtZTVjNGE2NTg0NGIxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "Title": "A Aa",
+    "Year": "2016",
+    "Runtime": "152 min",
+    "Released": "2016-06-03",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjdiM2Q5MGEtMTM0My00MTU2LTk2YWQtNTE5M2IyNGIzYTBjXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_SX300.jpg"
+  },
+  {
+    "Title": "Ab",
+    "Year": "2013",
+    "Runtime": "152 min",
+    "Released": "2013-04-15",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmYyMzFmMjYtNDU4Ni00ZTM1LWJkMGQtYjZhZTk0OTEzNjE2XkEyXkFqcGdeQXVyODIxNzQ4MDU@._V1_SX300.jpg"
+  },
+  {
+    "Title": "ABCD",
+    "Year": "2000",
+    "Runtime": "105 min",
+    "Released": "2000-04-01",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTM0MjI2MzkwOF5BMl5BanBnXkFtZTcwMTgzMjUyMQ@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Baba",
+    "Year": "2002",
+    "Runtime": "179 min",
+    "Released": "2002-12-11",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDEwMzdiMmUtMjBhZC00ZjQzLWFkMWUtODE4MjU1ODgyYTE5XkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_SX300.jpg"
+  },
+  {
+    "Title": "Kather Basha Endra Muthuramalingam",
+    "Year": "2023",
+    "Runtime": "152 min",
+    "Released": "2023-06-02",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTQzODg3ODctYWY3NC00NjkzLWIzN2YtNTE4NjE5ZTY1Yzc0XkEyXkFqcGdeQXVyMTIyNzY0NTMx._V1_SX300.jpg"
+  },
+  {
+    "Title": "Sar Basa",
+    "Year": "2019",
+    "Runtime": "100 min",
+    "Released": "2019-08-23",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGQ4Y2U0NjItZTU5Ny00MTNiLWE5MjQtODg0NmQ1ZTQwYWIxXkEyXkFqcGdeQXVyNjE2MDU2ODY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Catch Me If You Can",
+    "Year": "2002",
+    "Runtime": "141 min",
+    "Released": "2002-12-25",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_SX300.jpg"
+  },
+  {
+    "Title": "D",
+    "Year": "2005",
+    "Runtime": "107 min",
+    "Released": "2005-06-03",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGY5ZmM0MmMtZmEzOS00YjA0LTk5OGYtNjYwYTdlMjFkMGY2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Da Vinci Code",
+    "Year": "2006",
+    "Runtime": "149 min",
+    "Released": "2006-05-05",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjIxMjQyMTc3Nl5BMl5BanBnXkFtZTcwMTA1MDUzMw@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Dada",
+    "Year": "2000",
+    "Runtime": "133 min",
+    "Released": "2023-02-10",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjE0OWNlYjEtNTNlNi00MDBkLTg3MDEtYjYxMWE4MWMyYTRmXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_SX300.jpg"
+  },
+  {
+    "Title": "Du bist dran",
+    "Year": "2013",
+    "Runtime": "90 min",
+    "Released": "2013-08-28",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzc0MjllZjUtMzZhOS00Yzc0LWFmMGYtNTA5Yzk3MmVhYzU1XkEyXkFqcGdeQXVyOTE3NDAzMDU@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Dangal",
+    "Year": "2016",
+    "Runtime": "161 min",
+    "Released": "2016-12-21",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_SX300.jpg"
+  },
 ]
